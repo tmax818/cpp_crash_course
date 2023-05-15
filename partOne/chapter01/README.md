@@ -35,7 +35,10 @@ int main() {
 
 ## Bootstrapping C++
 
+>This section gives you just enough context to support the example code in the chapters to come. You’ll have questions about the details, and the coming chapters will answer them. Until then, don’t panic!
+
 ### The C++ Type System
+- [type]
 ### Declaring Variables
 ### Initializing a Variable’s State
 ### Conditional Statements
@@ -51,6 +54,8 @@ int main() {
 
 ## Summary
 
+[behavior]: ../../GLOSSARY.md#behavior
 [console application]: ../../GLOSSARY.md#con
 [development envirnment]: ../../GLOSSARY.md#dev
+[entry point]: ../../GLOSSARY.md#entry
 [function]: ../../GLOSSARY.md#function
