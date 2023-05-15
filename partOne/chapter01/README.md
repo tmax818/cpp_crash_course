@@ -2,6 +2,8 @@
 
 ![](../../public/images/common.jpg)
 
+
+
 ## The Structure of a Basic C++ Program
 
 ### Creating Your First C++ Source File
@@ -33,3 +35,6 @@
 ### GCC and Clang Debugging with GDB and LLDB
 
 ## Summary
+
+[console application]: GLOSSARY.md#con
+[development envirnment]: GLOSSARY.md#dev
