@@ -3,6 +3,9 @@
 behavior
 : the verbs of an object
 
+conditional statements
+: allow you to make decisions in programs
+
 console application 
 : a program that you can run from the command line.
 

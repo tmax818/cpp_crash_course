@@ -8,7 +8,7 @@ We will make [console application] in our [development envirnment]
 
 ### Creating Your First C++ Source File
 
-- [main.cpp](../../resources/ccc-master/chapter_1/listing_1_1.cpp)
+- [listing 1.1](../../resources/ccc-master/chapter_1/listing_1_1.cpp)
 
 ```cpp
 #include <cstdio>
@@ -40,9 +40,30 @@ int main() {
 ### The C++ Type System
 - [type]
 ### Declaring Variables
+
+```cpp
+int the_answer;
+```
+
 ### Initializing a Variable’s State
+
+```cpp
+int the_answer = 42;
+```
+
 ### Conditional Statements
+
+- [conditional statements]
+- [listing 1.2](../../resources/ccc-master/chapter_1/listing_1_2.cpp)
+
 ### Functions
+
+#### Example: A Step Function
+
+- [] 
+#### Calling Functions
+
+
 ### printf Format Specifiers
 ### Revisiting step_function
 ### Comments
@@ -55,7 +76,10 @@ int main() {
 ## Summary
 
 [behavior]: ../../GLOSSARY.md#behavior
-[console application]: ../../GLOSSARY.md#con
+[conditional statments]: ../../GLOSSARY.md#cond
+[console application]: ../../GLOSSARY.md#cons
 [development envirnment]: ../../GLOSSARY.md#dev
 [entry point]: ../../GLOSSARY.md#entry
 [function]: ../../GLOSSARY.md#function
+[source file]: ../../GLOSSARY.md#source
+[state]: ../../GLOSSARY.md#state
