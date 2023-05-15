@@ -1,4 +1,4 @@
-# cpp_crash_course
+# [cpp_crash_course](https://ccc.codes/)
 
 ## BRIEF CONTENTS
 
@@ -8,7 +8,7 @@ An Overture to C Programmers
 
 [PART I: THE C++ CORE LANGUAGE](./partOne/README.md)
 
-Chapter 1: Up and Running
+[Chapter 1: Up and Running](./partOne/chapter01/README.md)
 
 Chapter 2: Types
 
