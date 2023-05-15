@@ -2,7 +2,7 @@
 
 ![](../../public/images/common.jpg)
 
-
+We will make [console application] in our [development envirnment]
 
 ## The Structure of a Basic C++ Program
 
