@@ -19,7 +19,7 @@
 
 Chapter 3: Reference Types This chapter introduces you to objects that store the memory addresses of other objects. These types are the cornerstone of many important programming patterns, and they allow you to produce flexible, efficient code.
 
-Chapter 4: The Object Life Cycle The discussion of class invariants and the constructor is continued within the context of storage durations. The destructor is introduced alongside the resource acquisition is initialization (RAII) paradigm. You’ll learn about exceptions and how they enforce class invariants and complement RAII. After a discussion of move and copy semantics, you’ll explore how to operationalize them with constructors and assignment operators.
+Chapter 4: The Object Life Cycle The discussion of class invariants and the constructor is continued within the context of storage durations. The destructor is introduced alongside the [resource acquisition is initialization (RAII)] paradigm. You’ll learn about exceptions and how they enforce class invariants and complement RAII. After a discussion of move and copy semantics, you’ll explore how to operationalize them with constructors and assignment operators.
 
 Chapter 5: Runtime Polymorphism Here you’ll be introduced to interfaces, a programming concept that allows you to write code that’s polymorphic at runtime. You’ll learn the basics of inheritance and object composition, which underpin how you can operationalize interfaces in C++.
 

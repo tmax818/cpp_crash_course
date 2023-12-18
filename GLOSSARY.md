@@ -18,13 +18,15 @@ entry point
 function
 : blocks of code that can take inputs, execute some instructions, and return results
 
+reference types: store the memory addresses of objects.
+
 source file:
 : human readable text files
 
 state
 : the noun/adj of an object
 
-strongly typed lanaguage
+strongly typed language
 : each object has a predefined type
 
 type

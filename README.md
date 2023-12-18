@@ -10,9 +10,9 @@ An Overture to C Programmers
 
 [Chapter 1: Up and Running](./partOne/chapter01/README.md)
 
-Chapter 2: Types
+[Chapter 2: Types](./partOne/chapter02/README.md)
 
-Chapter 3: Reference Types
+[Chapter 3: Reference Types](./partOne/chapter03/README.md)
 
 Chapter 4: The Object Life Cycle
 
